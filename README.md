@@ -27,7 +27,7 @@ Instruções de Uso:
 
     Faça o upload do código para o ESP8266MOD utilizando a Arduino IDE.
     Configure as informações de rede Wi-Fi e servidor MQTT no código.
-    Conecte o sensor de temperatura LM35 ao ESP8266MOD seguindo o esquema eletronico criado na plataforma fritzing adicionado nesse repositório.
+    Conecte o sensor de temperatura LM35 ao ESP8266MOD seguindo o esquema eletronico criado na plataforma fritzing adicionado neste repositório.
     Execute o projeto e observe as leituras de temperatura sendo publicadas no MQTT Explorer e exibidas no monitor serial.
 
 Este projeto é uma excelente base para implementações de monitoramento de temperatura em diversos contextos. Sinta-se à vontade para contribuir, fornecer feedback e estender o projeto de acordo com suas necessidades.
