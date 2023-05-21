@@ -1,5 +1,7 @@
 Monitoramento de Temperatura via MQTT com ESP8266MOD
+
 Descrição do Projeto:
+
 Este projeto consiste em um sistema de monitoramento de temperatura utilizando o microcontrolador ESP8266MOD e a comunicação MQTT (Message Queuing Telemetry Transport). O ESP8266MOD é responsável pela leitura de temperatura por meio do sensor LM35 e o envio desses dados para um servidor MQTT. Além disso, o projeto inclui a visualização das leituras no MQTT Explorer e no monitor serial.
 
 Recursos e Funcionalidades:
